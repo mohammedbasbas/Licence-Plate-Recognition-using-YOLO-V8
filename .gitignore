@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# Résultats d'inférence / d'entraînement (régénérés à chaque exécution)
+runs/
+outputs/
+*.log
+
+# Poids téléchargés automatiquement par Ultralytics
+yolov8n.pt
+
+# OS / IDE
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
